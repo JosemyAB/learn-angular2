@@ -2,6 +2,8 @@
 
 Resource files from my course [Angular 2 Essential Training](https://www.udemy.com/angular-2-training/?couponCode=NGPROMO10)
 
+https://github.com/jakblak/learn-angular2
+
 1) Open a command prompt in any of the sub-folders
 
 2) Type: `npm install`
